@@ -18,16 +18,20 @@ We will follow a very similar educational approach as Andrej Karpathy in his Mic
 🛠️ Installation
 	1.	Clone the repository:
 
+```
 git clone https://github.com/jsmidt/picollama.git
 cd picollama
+```
 
 
-	2.	Install the dependencies:
+2.	Install the dependencies:
 
+```
 pip install -r requirements.txt
+```
 
 
-	3.	You’re ready to roll!
+3.	You’re ready to roll!
 
 📚 Usage
 
